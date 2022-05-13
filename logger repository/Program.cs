@@ -8,8 +8,8 @@ namespace Logger
     {
         public static void Main(string[] args)
         {
-        //    var starter = new Starter();
-        //    starter.Run();
+            var starter = new Starter();
+            starter.Run();
         }
     }
 }
